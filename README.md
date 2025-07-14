@@ -3,5 +3,9 @@ Welcome to my collection of Power BI dashboards. This repository contains data v
 
 
  📁 Projects Included
-  1. 🎵 [Spotify Dashboard]
+  1. [Spotify Dashboard]
   An interactive dashboard analyzing Spotify listening data, top artists, genres, and user behavior patterns.
+
+  2. Amazon Sales Analysis
+     
+  3.  Uber Data Analysis
