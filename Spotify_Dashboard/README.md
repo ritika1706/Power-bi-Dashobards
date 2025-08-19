@@ -7,6 +7,9 @@ This project presents an interactive Power BI dashboard that visualizes Spotify 
 - DAX
 - Power Query
 
+  Project screenRecording
+  https://drive.google.com/file/d/1fqffHLRISLV3Zkpi6iHxAEmBqdudwZEX/view?usp=sharing
+
 ## 📈 Features
 ✅ Top Albums & Artists Over Time – Tracking listening habits across months & years
 ✅ Weekend vs. Weekday Trends – When do we listen to music the most? 🎧
