@@ -9,3 +9,5 @@ Welcome to my collection of Power BI dashboards. This repository contains data v
   2. Amazon Sales Analysis
      
   3.  Uber Data Analysis
+
+4. Twitter analytics dashboard
