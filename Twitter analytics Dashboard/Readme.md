@@ -1,8 +1,11 @@
 Contents:
 1. Dashboard(.pbix)
 2. screenshorts of project
-About project:
 
+PROJECT VIDEO 
+https://drive.google.com/file/d/1kDHU3aH4kghGQ3-PQwAfbAfdmJbaRZo7/view?usp=sharing
+
+About project:
 I’m excited to share a project I worked on during my internship at NullClass – a Twitter Analytics Dashboard in Power BI.
 The goal of this dashboard was to help a marketing team monitor and analyze Twitter campaign performance.
 ✨ Key Features I implemented:
