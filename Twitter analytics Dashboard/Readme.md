@@ -1,7 +1,6 @@
 Contents:
 1. Dashboard(.pbix)
 2. screenshorts of project
-3. project screen-recording video 
 About project:
 
 I’m excited to share a project I worked on during my internship at NullClass – a Twitter Analytics Dashboard in Power BI.
